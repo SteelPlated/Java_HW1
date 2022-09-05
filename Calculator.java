@@ -52,7 +52,7 @@ public class Calculator {
                 break;
                 case '5' :
                 System.exit(0);
-break;
+                break;
                 default : System.out.print("Неверное действие!!!");
                 break;
             }
